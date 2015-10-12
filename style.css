@@ -50,3 +50,34 @@ table {
 	border-spacing: 0;
 }
 
+
+
+
+h1 {
+	color:brown;
+	font-family:helvetica;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:23px;
+}
+
+
+nav li {
+   list-style-type:none;
+   float:left;
+   margin:0 auto;
+   background-color:brown;
+   padding:7px 14px;
+   color:white;
+   text-transform:uppercase;
+   font-family:helvetica;
+   font-size:14px;
+   font-weight:bold;
+   text-decoration:none;
+ }
+ 
+ body {
+	 
+	 padding-left:200px
+ }
+
