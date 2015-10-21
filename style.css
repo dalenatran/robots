@@ -214,7 +214,10 @@ nav li {
 	 
 	 #footer-follow li {
 		 float:left;
-		 
+	 }
+	 
+	 #footer-follow ul {
+		 padding-left:200px;
 	 }
 	 
 	 #site-footer {
